@@ -8,7 +8,7 @@ const history = createBrowserHistory();
 const App = () => {
   return (
     <ConfigProvider>
-      <HistoryRouter history={history}>Hello123</HistoryRouter>
+      <HistoryRouter history={history}>Hellofff123</HistoryRouter>
     </ConfigProvider>
   );
 };
